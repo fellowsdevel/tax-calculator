@@ -1,0 +1,62 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="BWVisrkvKSJQ4l7Cb1jZ">
+    <mxGraphModel dx="863" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bD_3HFFc9bvQnClB4bss-17" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-1" value="TaxCalculator" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-6" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" parent="1" source="bD_3HFFc9bvQnClB4bss-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471" y="416" as="sourcePoint" />
+            <mxPoint x="520" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-21" value="ForGettingTaxes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bD_3HFFc9bvQnClB4bss-8">
+          <mxGeometry x="-0.0032" relative="1" as="geometry">
+            <mxPoint x="30" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-15" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="430" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;" edge="1" parent="1" source="bD_3HFFc9bvQnClB4bss-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="379.76" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-20" value="ForCalculaingTaxes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bD_3HFFc9bvQnClB4bss-18">
+          <mxGeometry x="0.2593" relative="1" as="geometry">
+            <mxPoint x="-36" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-19" value="ForDefaultTaxRateRepository" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;" edge="1" parent="1" source="bD_3HFFc9bvQnClB4bss-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="610" as="sourcePoint" />
+            <mxPoint x="520" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-25" value="TaskCalculatorTest" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD_3HFFc9bvQnClB4bss-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" parent="1" source="bD_3HFFc9bvQnClB4bss-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="390" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
