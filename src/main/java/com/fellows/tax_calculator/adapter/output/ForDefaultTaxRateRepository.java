@@ -1,6 +1,6 @@
 package com.fellows.tax_calculator.adapter.output;
 
-import com.fellows.tax_calculator.application.ports.output.ForGettingTaxRates;
+import com.fellows.tax_calculator.ports.output.ForGettingTaxRates;
 
 public class ForDefaultTaxRateRepository implements ForGettingTaxRates {
 

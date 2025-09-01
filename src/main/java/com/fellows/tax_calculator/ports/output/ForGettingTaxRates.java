@@ -1,4 +1,4 @@
-package com.fellows.tax_calculator.application.ports.output;
+package com.fellows.tax_calculator.ports.output;
 
 public interface ForGettingTaxRates {
 
